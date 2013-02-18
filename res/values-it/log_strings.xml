@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+
+    <string name="unknown">Sconosciuto</string>
+    <string name="type_incoming">In entrata</string>
+    <string name="type_outgoing">In uscita</string>
+    <string name="type_missed">Persa</string>
+    <string name="callBack">Call back</string>
+    <string name="callAgain">Richiama</string>
+    <string name="returnCall">Chiamata di ritorno</string>
+
+</resources>
